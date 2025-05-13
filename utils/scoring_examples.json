@@ -1,0 +1,42 @@
+[
+  {
+    "user": "Cashier says: 'Good afternoon! Let me know if you need anything.'",
+    "model": "Warm and welcoming — great job creating a positive first impression!"
+  },
+  {
+    "user": "Cashier says: 'Yeah, stuff's over there.'",
+    "model": "Helpful, but adding a smile and offering to assist would make it feel more inviting."
+  },
+  {
+    "user": "Cashier says: 'Hi! Welcome to Nike. Can I help you find something?'",
+    "model": "Excellent energy — very welcoming and proactive!"
+  },
+  {
+    "user": "Cashier says: 'What's up?'",
+    "model": "Casual, but could sound more professional by offering to assist politely."
+  },
+  {
+    "user": "Cashier says: 'Hey there! Looking for anything specific today?'",
+    "model": "Friendly and engaging — a great start to building a connection!"
+  },
+  {
+    "user": "Cashier says: 'Socks are on that wall.'",
+    "model": "Clear direction, but adding a welcoming tone would make it feel more inviting."
+  },
+  {
+    "user": "Cashier says: 'Good morning! Let me know if you want help with sizes or styles.'",
+    "model": "Thoughtful and attentive — excellent customer service tone!"
+  },
+  {
+    "user": "Cashier says: 'Hello. What do you need?'",
+    "model": "Direct, but would feel warmer by starting with a friendly greeting."
+  },
+  {
+    "user": "Cashier says: 'Hi there! We have some new running gear if you're interested.'",
+    "model": "Cheerful and helpful — you create curiosity while welcoming the customer!"
+  },
+  {
+    "user": "Cashier says: 'Welcome! Feel free to browse around.'",
+    "model": "Inviting and relaxed — great way to make the customer feel comfortable."
+  }
+]

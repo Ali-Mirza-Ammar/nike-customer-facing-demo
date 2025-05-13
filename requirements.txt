@@ -1,0 +1,6 @@
+streamlit
+google-cloud-texttospeech
+google-cloud-speech
+google-generativeai
+python-dotenv
+pydub

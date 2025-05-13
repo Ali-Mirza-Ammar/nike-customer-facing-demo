@@ -1,0 +1,58 @@
+[
+  {
+    "user": "Generate a friendly, casual customer utterance when first entering the store, asking where specific products are.",
+    "model": "Hey, this store looks great! Can you point me to the athletic wear section?"
+  },
+  {
+    "user": "Generate a polite, but slightly unsure customer utterance asking for a specific product, avoiding names.",
+    "model": "Hi! Do you have any new training gear in stock? I’m looking for something breathable and light."
+  },
+  {
+    "user": "Generate a casual, neutral customer utterance when asking about sizing or availability.",
+    "model": "I’m not sure if you have this in my size, but do you have any gym shorts in large?"
+  },
+  {
+    "user": "Generate a friendly, excited customer utterance upon first seeing a sale or promotion.",
+    "model": "Oh wow, is that 20% off on activewear? That’s awesome! Do you have that deal on jackets too?"
+  },
+  {
+    "user": "Generate a polite, somewhat hesitant customer utterance, unsure about asking for assistance.",
+    "model": "Uh, sorry to bother you, but can you tell me if you have compression gear in medium?"
+  },
+  {
+    "user": "Generate a friendly customer utterance asking for help with product features or recommendations.",
+    "model": "Hey, I’m looking for something comfortable but durable for outdoor sports. Do you have any recommendations?"
+  },
+  {
+    "user": "Generate a customer utterance expressing excitement or surprise when seeing a product display.",
+    "model": "Whoa, look at these jackets! I’ve been wanting something like this for my morning runs."
+  },
+  {
+    "user": "Generate a casual, thankful customer utterance after receiving help from the cashier.",
+    "model": "Thanks so much for your help! I think I’ll grab this shirt. Can I check out here?"
+  },
+  {
+    "user": "Generate a customer utterance with light humor, acknowledging they’re new to the store.",
+    "model": "This is my first time here, and I’m already loving the workout gear. You guys really do have everything."
+  },
+  {
+    "user": "Generate a polite customer utterance asking for more information about a product or collection.",
+    "model": "Can you tell me more about your fitness accessories? I’m looking for a new water bottle and towel."
+  },
+  {
+    "user": "Generate a customer utterance showing mild indecision or uncertainty about a product choice.",
+    "model": "Hmm, I’m torn between these two jackets. Do you think the lighter one would be good for colder weather?"
+  },
+  {
+    "user": "Generate a curious customer utterance asking about seasonal products.",
+    "model": "Do you have any cold-weather gear? I’m looking for something for my outdoor runs in the winter."
+  },
+  {
+    "user": "Generate a polite but excited customer utterance when asking about special editions or limited releases.",
+    "model": "Do you have any special edition gear for runners this season? I love limited releases!"
+  },
+  {
+    "user": "Generate a customer utterance asking about accessories like socks or bags.",
+    "model": "I’m also looking for some new socks, maybe with more support. Do you have any like that?"
+  }
+]
