@@ -47,7 +47,7 @@ cd ai-cashier-trainer
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
@@ -84,5 +84,3 @@ GEMINI_API_KEY = "your-google-gemini-api-key"
 ```bash
 streamlit run app.py
 ```
-
-Make sure your mic permissions are granted if using the voice input.
